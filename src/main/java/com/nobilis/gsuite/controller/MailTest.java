@@ -17,7 +17,7 @@ public class MailTest {
 //    private static String USER = "nobilis.ai@nobilisai.com";
     private static String FROM = "011bmsingh@gmail.com";
 //    private static String FROM = "nobilis.ai@nobilisai.com";
-    private static String PASS = "9841244040";
+    private static String PASS = "testpassword";
 //    private static String PASS = "qwwzxvwfqudikpdr";
 
     private static String PORT = "587";
